@@ -1,2 +1,2 @@
-# Praktikum-Web-HTML-CSS
-FADLI-BRILIAN-DAKSA_E1E119053
+# Praktikum-WEB_HTML_CSS
+E1E11017-Andi Gamma Brilliant Arifzha

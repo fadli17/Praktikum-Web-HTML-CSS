@@ -1,0 +1,128 @@
+a {
+    text-decoration: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Public sans', sans-serif;
+}
+
+/* navbar */
+.navbar-head {
+    width: 100%;    
+    margin: 0; 
+    border-bottom: solid 1px blue;  
+}
+.navbar-body,
+.service-body {
+    margin: auto;
+    width: 80%;
+    background-color: black;
+
+    
+}
+.navbar-menu {
+    font-size: 14px;
+    float: right;
+    margin: 0px;
+    list-style: none;
+    padding: 25px 4px;
+}
+.navbar-item-link {
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline;
+    padding: 0px 20px;
+}
+/* banner */
+.banner-container {
+    width: 100%;
+    border: solid 1px black;
+}
+.banner-body {
+    overflow: hidden;
+    height: 650px;
+    background-image: url("lompat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: absolute
+;
+}
+.banner-color {
+    width: 100%;
+    text-align:  center   ;
+    padding: 100px 10px;
+    color: gold;
+   
+}
+.banner-color h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+/* content */
+.content-head {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom:0px;
+}
+.content-body {
+    justify-content: center;
+    display: flex;
+    padding: 20px ;
+    margin-top: 100px;
+}
+.title {
+    font-size: 20px ;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.row {
+    font-size: 25px;
+    border: none;
+    background: transparent;
+    color: burlywood;
+    padding: 5px 100px;
+    cursor: pointer;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+}
+.btn {
+font-size: 25px;
+border: none;
+background: transparent;
+color: black;
+border: solid 1px black;
+padding: 5px 8px;
+border-radius: 5px;
+font-family: 'Alata', sans-serif;
+cursor: pointer;    
+}
+.btn:hover{ 
+    background-color: black;
+    color:black;
+    transition: 0.2s ease;
+} 
+.footer {
+    font-size: 12px;
+    padding: 14px 0;
+    color: white;
+    text-align: center;
+    background-color: #282627;
